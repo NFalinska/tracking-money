@@ -1,0 +1,17 @@
+.input {
+	border: none;
+	outline: none;
+	font-family: FreeMono;
+	font-size: 18px;
+	color: #696969;
+	width: 600px;
+	padding-left: 10px;
+	
+}
+
+#out {
+	font-family: Arial;
+	font-size: 18px;
+	font-style: italic;
+	font-weight:100;
+}
